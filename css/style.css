@@ -24,7 +24,7 @@ nav>div.gnb{
     margin: 0 auto;
     line-height: 100px;
     text-align: center;
-    z-index: 99;
+    z-index: 100;
 }
 nav>div.gnb div#logo.small h1{
     flex-basis:200px;
