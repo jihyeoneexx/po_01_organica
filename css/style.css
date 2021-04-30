@@ -7,7 +7,7 @@ body{
 }
 a, a:hover, a:active, a:visited {
     text-decoration: none;
-    color: black; /*reset 시트 링크 안 해도 해줘야 하나?ㅜ.ㅜ*/
+    color: black; 
 }
 nav{
     position: fixed;
